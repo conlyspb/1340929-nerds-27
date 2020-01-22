@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Юлия  Бойко](https://up.htmlacademy.ru/htmlcss/27/user/1340929).
-* Наставник: [Андрей Ефимов] (https://htmlacademy.ru/profile/efiand).
+* Наставник: [Андрей Ефимов](https://htmlacademy.ru/profile/efiand).
 
 ---
 
